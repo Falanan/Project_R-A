@@ -10,8 +10,10 @@ My initial idea is firstly make a video recorder, then scaling up more fuctions.
 
 ## TODOs
 
-* [ ] Video Recording
+* [x] Video Recording - Partically working (Timestep has some issue due to some performance issues)
+* [ ] Blind Spot Monitor
 * [ ] Approaching Alert
+* [ ] Lane Departure Alert
 * [ ] Driver fatigue detection
 
 
