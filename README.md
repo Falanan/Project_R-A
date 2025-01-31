@@ -10,12 +10,11 @@ My initial idea is firstly make a video recorder, then scaling up more fuctions.
 
 ## TODOs
 
-* [x] Video Recording - Partically working (Timestep has some issue due to some performance issues)
-* [ ] Blind Spot Monitor
-* [ ] Approaching Alert
-* [ ] Lane Departure Alert
-* [ ] Driver fatigue detection
-
+* [X]  Video Recording - M1 chip has a performance issue with encoding 4-ways 2160p videos
+* [ ]  Blind Spot Monitor
+* [ ]  Approaching Alert
+* [ ]  Lane Departure Alert
+* [ ]  Driver fatigue detection
 
 ## Genenal Architecture
 
